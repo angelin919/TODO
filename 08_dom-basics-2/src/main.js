@@ -189,7 +189,6 @@ function createTodoApp(container, title = 'Список дел', keyName){
     console.log(todoItem)
     console.log(todoItem.item)
 
-
           //ДОбавляем обьект в массив
           tasks.push(itemObj)
 
